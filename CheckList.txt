@@ -1,0 +1,6 @@
+CheckList structure:
+
+Number #;
+Check name;
+Result;
+Comments.
