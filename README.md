@@ -6,7 +6,8 @@
 - SQL
 - Charles
 - Mobile testing
-→ Для всех веток будет будет командра git branch name branch
+
+Для всех веток будет будет командра git branch name branch
 
 2. Запушить все ветки на внешний репозиторий → git push origin --all
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта → touch bag_report.txt : vim bag_report.txt
