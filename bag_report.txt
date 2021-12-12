@@ -1,0 +1,15 @@
+Bag Report structure:
+ID;
+Priority;
+Severity;
+Module;
+Title:
+Step to reproduce;
+Enviroment;
+Status;
+Bild;
+Attachments;
+Expected result;
+Actual result;
+Asignt to;
+Autor.
